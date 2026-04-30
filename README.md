@@ -81,8 +81,8 @@ PORT=5000
 MONGO_URI=mongodb+srv://...
 JWT_SECRET=some_long_random_string
 GOOGLE_CLIENT_ID=xxx.apps.googleusercontent.com
-ADMIN_EMAIL=admin@example.com
-ADMIN_PASSWORD=Admin@123
+ADMIN_EMAIL=admin@shubham.com
+ADMIN_PASSWORD=Admin@123456
 FRONTEND_URL=http://localhost:3000
 ```
 
@@ -144,7 +144,3 @@ App runs at `http://localhost:3000`
 | DELETE | /api/admin/users/:id | Delete user |
 
 ---
-
-## Deployment
-
-See `SETUP_GUIDE.md` for full deployment instructions.
